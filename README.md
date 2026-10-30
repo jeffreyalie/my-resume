@@ -8,6 +8,17 @@ Infrastructure Engineer with experience at **Epic Games**, specializing in the e
 
 ---
 
+#### Table of Content
+
+* [Areas of Experties](#areas-of-expertise)
+* [Work Experience](#work-experience)
+  - [Epic Games - Infrastructure Engineer](#epic-games--infrastructure-engineer---syseng-team--february-2020--april-2026)
+  - [3rd World Studios - System Administrator](#system-administrator--3rd-world-studios---3d-animation-studio--islamabad-pakistan--2016--2017)
+  - [Unicorn Black - System Administrator](#system-administrator--unicorn-black---3d-animation-studio--islamabad-pakistan--2012--2016)
+  - [Numairicals Studio - System Administrator](#system-administrator--numairical-studios---2d-animation-studio--islamabad-pakistan--2010--2012)
+  - [Bentley Systems - Senior System Administrator](#senior-system-administrator--bentley-systems-2005--2009--islamabad-pakistan)
+
+---
 #### AREAS OF EXPERTISE
 
 * **Automation & IaC:** Terraform, Ansible, GitHub Actions (GHA), CI/CD Pipeline Development  
