@@ -2,15 +2,15 @@
 IT Infrastructure Engineer  
 jeffreyalie75@gmail.com \| [https\://www\.linkedin.com/in/jeffreyalie/](https://www.linkedin.com/in/jeffreyalie/) \| [https\://github.com/jeffreyalie](https://github.com/jeffreyalie) \|
 
-SUMMARY
+## SUMMARY
 
 Infrastructure Engineer with experience at **Epic Games**, specializing in the evolution from traditional **Systems Administration** to modern **Automation & IaC workflows**. Experienced in developing internal tools using Go (Golang), managing containerized services on **Kubernetes (k8s)**, and maintaining automated VM provisioning and **CI/CD workflows** using **Terraform**, **Ansible**, and **GitHub Actions**.
 
 ---
 
-AREAS OF EXPERTISE
+## AREAS OF EXPERTISE
 
-* **Automation & IaC:** Terraform, Ansible, GitHub Actions (GHA), CI/CD Pipeline Development  
+* ****Automation & IaC:**** Terraform, Ansible, GitHub Actions (GHA), CI/CD Pipeline Development  
 * **Cloud & Orchestration**: Kubernetes (k8s), Lens, Docker, Helm, Containerization  
 * **Programming & Tools**: Go (Golang), Claude Code (AI-assisted development), PowerShell, Bash  
 * **Operating Systems:** Windows Server (2012R2, Active Directory, DHCP, DNS, FTP, Group Policies), CentOS, Ubuntu, Windows 10/11, macOS  
