@@ -2,15 +2,15 @@
 IT Infrastructure Engineer  
 jeffreyalie75@gmail.com \| [https\://www\.linkedin.com/in/jeffreyalie/](https://www.linkedin.com/in/jeffreyalie/) \| [https\://github.com/jeffreyalie](https://github.com/jeffreyalie) \|
 
-## SUMMARY
+#### SUMMARY
 
 Infrastructure Engineer with experience at **Epic Games**, specializing in the evolution from traditional **Systems Administration** to modern **Automation & IaC workflows**. Experienced in developing internal tools using Go (Golang), managing containerized services on **Kubernetes (k8s)**, and maintaining automated VM provisioning and **CI/CD workflows** using **Terraform**, **Ansible**, and **GitHub Actions**.
 
 ---
 
-## AREAS OF EXPERTISE
+#### AREAS OF EXPERTISE
 
-* ****Automation & IaC:**** Terraform, Ansible, GitHub Actions (GHA), CI/CD Pipeline Development  
+* **Automation & IaC:** Terraform, Ansible, GitHub Actions (GHA), CI/CD Pipeline Development  
 * **Cloud & Orchestration**: Kubernetes (k8s), Lens, Docker, Helm, Containerization  
 * **Programming & Tools**: Go (Golang), Claude Code (AI-assisted development), PowerShell, Bash  
 * **Operating Systems:** Windows Server (2012R2, Active Directory, DHCP, DNS, FTP, Group Policies), CentOS, Ubuntu, Windows 10/11, macOS  
@@ -20,7 +20,7 @@ Infrastructure Engineer with experience at **Epic Games**, specializing in the e
 
 ---
 
-WORK EXPERIENCE
+#### WORK EXPERIENCE
 
 Epic Games \| Infrastructure Engineer \- SysEng Team \| *February 2020 – April 2026*
 
@@ -71,7 +71,7 @@ System Administrator \| Numairical Studios \- 2D Animation Studio – Islamabad,
 * **Network Security & Infrastructure:**  Installed and maintained pfSense firewalls, successfully securing network access and sensitive production data.  
   Key Achievements: Authored comprehensive technical documentation and established a foundational IT environment from zero to support a high-volume 2D animation pipeline.
 
-### Senior System Administrator \| Bentley Systems \|*2005 – 2009 \| Islamabad, Pakistan*
+Senior System Administrator \| Bentley Systems \|*2005 – 2009 \| Islamabad, Pakistan*
 
 * **Physical Infrastructure:** Designed and implemented the complete site network, managing everything from physical cabling and patch panel integration to high-level switch configuration.  
 * **Server Administration :** Architected and managed Windows 2000 Active Directory environments, leveraging Group Policy (GPO), DHCP, and RIS for automated client deployments and standardized security.  
@@ -83,12 +83,12 @@ System Administrator \| Numairical Studios \- 2D Animation Studio – Islamabad,
 
 ---
 
-EDUCATION
+#### EDUCATION
 
 Master of Computer Science \| Preston University, Islamabad   
 Bachelor of Science, Double Mathematics & Physics \| Punjab University, Islamabad 
 
-CERTIFICATIONS
+#### CERTIFICATIONS
 
 * Microsoft Certified Systems Engineer (MCSE)  
 * Microsoft Certified Database Administrator (MCDBA)  
