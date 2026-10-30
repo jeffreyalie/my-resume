@@ -1,4 +1,4 @@
-ALI AHMED   
+# ALI AHMED
 IT Infrastructure Engineer  
 jeffreyalie75@gmail.com \| [https\://www\.linkedin.com/in/jeffreyalie/](https://www.linkedin.com/in/jeffreyalie/) \| [https\://github.com/jeffreyalie](https://github.com/jeffreyalie) \|
 
@@ -32,17 +32,17 @@ Epic Games \| Infrastructure Engineer \- SysEng Team \| *February 2020 – April
 
 Studio M\&A Systems Administrator \- Quixel Integration *(Previous Role)*
 
-* ### **M\&A Infrastructure Integration:** Led the technical merger of Quixel, consolidating digital assets and global network infrastructure, including switches, firewalls, and security policies.
+* **M\&A Infrastructure Integration:** Led the technical merger of Quixel, consolidating digital assets and global network infrastructure, including switches, firewalls, and security policies.
 
-* ### **Project Management:** Utilized Jira, Miro, and Excel for cross-functional project tracking and technical documentation to ensure transparency and a strong security posture.
+* **Project Management:** Utilized Jira, Miro, and Excel for cross-functional project tracking and technical documentation to ensure transparency and a strong security posture.
 
-* ### **System Lifecycle Management (SLM):** Inventoried hardware and tracked the decommissioning of systems while provisioning new, high-performance systems to meet corporate standards.
+* **System Lifecycle Management (SLM):** Inventoried hardware and tracked the decommissioning of systems while provisioning new, high-performance systems to meet corporate standards.
 
-* ### **Network Security & Infrastructure:** Optimized office network infrastructure using Palo Alto firewalls, Cisco switches, and Meraki Wi-Fi while maintaining advanced Poly video systems.
+* **Network Security & Infrastructure:** Optimized office network infrastructure using Palo Alto firewalls, Cisco switches, and Meraki Wi-Fi while maintaining advanced Poly video systems.
 
-* ### **Systems Administration:** Managed complex hardware and software environments across macOS, Linux, and Windows to ensure high availability for specialized studio production pipelines.
+* *Systems Administration:** Managed complex hardware and software environments across macOS, Linux, and Windows to ensure high availability for specialized studio production pipelines.
 
-* ### **Enterprise SaaS & Security:** Administered Google Workspace and Office 365 environments and deployed Qualys and CrowdStrike across machines.
+* **Enterprise SaaS & Security:** Administered Google Workspace and Office 365 environments and deployed Qualys and CrowdStrike across machines.
 
   Key Achievements: \* Executed the technical merger of Quixel’s network and systems into Epic Games with zero production downtime
 
