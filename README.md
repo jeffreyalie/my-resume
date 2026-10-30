@@ -22,7 +22,7 @@ Infrastructure Engineer with experience at **Epic Games**, specializing in the e
 
 #### WORK EXPERIENCE
 
-###### Epic Games \| Infrastructure Engineer \- SysEng Team \| *February 2020 – April 2026*
+##### Epic Games \| Infrastructure Engineer \- SysEng Team \| *February 2020 – April 2026*
 
 * **Infrastructure as Code (IaC) Automation:** Revived, optimized, and maintained Terraform, Ansible, and GitHub Actions (GHA) workflows to automate the provisioning of new virtual machines in VMware vCenter.  
 * **VM Lifecycle Management:** Tracked end-of-life (EOL) Ubuntu virtual machines, coordinated their decommissioning, and updated VM templates and associated IaC GitHub repositories to maintain consistency and support ongoing infrastructure maintenance.  
@@ -86,7 +86,8 @@ Senior System Administrator \| Bentley Systems \|*2005 – 2009 \| Islamabad, Pa
 #### EDUCATION
 
 Master of Computer Science \| Preston University, Islamabad   
-Bachelor of Science, Double Mathematics & Physics \| Punjab University, Islamabad 
+Bachelor of Science, Double Mathematics & Physics \| Punjab University, Islamabad
+
 ---
 
 #### CERTIFICATIONS
