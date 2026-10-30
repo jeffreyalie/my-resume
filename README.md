@@ -19,7 +19,7 @@ Infrastructure Engineer with experience at **Epic Games**, specializing in the e
   - [System Administrator | Numairical Studios |](#system-administrator--numairical-studios---2d-animation-studio--islamabad-pakistan--2010--2012)
   - [Senior System Administrator | Bentley Systems |](#senior-system-administrator--bentley-systems-2005--2009--islamabad-pakistan)
 * [Education](#education)
-* [CERTIFICATIONS](#certifications)
+* [Cetrifications](#certifications)
 ---
 ### AREAS OF EXPERTISE
 
