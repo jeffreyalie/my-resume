@@ -12,8 +12,8 @@ Infrastructure Engineer with experience at **Epic Games**, specializing in the e
 
 * [Areas of Experties](#areas-of-expertise)
 * [Work Experience](#work-experience)
-  - [Infrastructure Engineer - SysEng Team | Epic Games |](#epic-games--infrastructure-engineer---syseng-team--february-2020--april-2026)
-  - [Studio M\&A Systems Administrator - Quixel Integration | Previous Role at Epicgames|](#studio-ma-systems-administrator---quixel-integration-previous-role-at-epicgames)
+  - [Infrastructure Engineer - SysEng Team | Epic Games |](#infrastructure-engineer---syseng-team--epic-games--february-2020--april-2026)
+  - [Studio M\&A Systems Administrator - Quixel Integration | Previous Role at Epicgames|](#studio-ma-systems-administrator---quixel-integration---previous-role-at-epicgames-)
   - [System Administrator | 3rd World Studios |](#system-administrator--3rd-world-studios---3d-animation-studio--islamabad-pakistan--2016--2017)
   - [System Administrator | Unicorn Black |](#system-administrator--unicorn-black---3d-animation-studio--islamabad-pakistan--2012--2016)
   - [System Administrator | Numairical Studios |](#system-administrator--numairical-studios---2d-animation-studio--islamabad-pakistan--2010--2012)
