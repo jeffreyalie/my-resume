@@ -12,7 +12,7 @@ Infrastructure Engineer with experience at **Epic Games**, specializing in the e
 
 * [Areas of Experties](#areas-of-expertise)
 * [Work Experience](#work-experience)
-  - [Epic Games - Infrastructure Engineer](#epic-games--infrastructure-engineer---syseng-team--february-2020--april-2026)
+  - [Epic Games \| Infrastructure Engineer \- SysEng Team \|](#epic-games--infrastructure-engineer---syseng-team--february-2020--april-2026)
   - [3rd World Studios - System Administrator](#system-administrator--3rd-world-studios---3d-animation-studio--islamabad-pakistan--2016--2017)
   - [Unicorn Black - System Administrator](#system-administrator--unicorn-black---3d-animation-studio--islamabad-pakistan--2012--2016)
   - [Numairicals Studio - System Administrator](#system-administrator--numairical-studios---2d-animation-studio--islamabad-pakistan--2010--2012)
@@ -33,7 +33,7 @@ Infrastructure Engineer with experience at **Epic Games**, specializing in the e
 
 #### WORK EXPERIENCE
 
-###### Epic Games \| Infrastructure Engineer \- SysEng Team \| *February 2020 – April 2026*
+##### Epic Games \| Infrastructure Engineer \- SysEng Team \| *February 2020 – April 2026*
 
 * **Infrastructure as Code (IaC) Automation:** Revived, optimized, and maintained Terraform, Ansible, and GitHub Actions (GHA) workflows to automate the provisioning of new virtual machines in VMware vCenter.  
 * **VM Lifecycle Management:** Tracked end-of-life (EOL) Ubuntu virtual machines, coordinated their decommissioning, and updated VM templates and associated IaC GitHub repositories to maintain consistency and support ongoing infrastructure maintenance.  
