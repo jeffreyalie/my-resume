@@ -2,13 +2,13 @@
 IT Infrastructure Engineer  
 jeffreyalie75@gmail.com \| [https\://www\.linkedin.com/in/jeffreyalie/](https://www.linkedin.com/in/jeffreyalie/) \| [https\://github.com/jeffreyalie](https://github.com/jeffreyalie) \|
 
-#### SUMMARY
+### SUMMARY
 
 Infrastructure Engineer with experience at **Epic Games**, specializing in the evolution from traditional **Systems Administration** to modern **Automation & IaC workflows**. Experienced in developing internal tools using Go (Golang), managing containerized services on **Kubernetes (k8s)**, and maintaining automated VM provisioning and **CI/CD workflows** using **Terraform**, **Ansible**, and **GitHub Actions**.
 
 ---
 
-#### Table of Content
+### Table of Content
 
 * [Areas of Experties](#areas-of-expertise)
 * [Work Experience](#work-experience)
@@ -19,7 +19,7 @@ Infrastructure Engineer with experience at **Epic Games**, specializing in the e
   - [Bentley Systems - Senior System Administrator](#senior-system-administrator--bentley-systems-2005--2009--islamabad-pakistan)
 
 ---
-#### AREAS OF EXPERTISE
+### AREAS OF EXPERTISE
 
 * **Automation & IaC:** Terraform, Ansible, GitHub Actions (GHA), CI/CD Pipeline Development  
 * **Cloud & Orchestration**: Kubernetes (k8s), Lens, Docker, Helm, Containerization  
@@ -31,9 +31,9 @@ Infrastructure Engineer with experience at **Epic Games**, specializing in the e
 
 ---
 
-#### WORK EXPERIENCE
+### WORK EXPERIENCE
 
-##### Epic Games \| Infrastructure Engineer \- SysEng Team \| *February 2020 – April 2026*
+#### Epic Games \| Infrastructure Engineer \- SysEng Team \| *February 2020 – April 2026*
 
 * **Infrastructure as Code (IaC) Automation:** Revived, optimized, and maintained Terraform, Ansible, and GitHub Actions (GHA) workflows to automate the provisioning of new virtual machines in VMware vCenter.  
 * **VM Lifecycle Management:** Tracked end-of-life (EOL) Ubuntu virtual machines, coordinated their decommissioning, and updated VM templates and associated IaC GitHub repositories to maintain consistency and support ongoing infrastructure maintenance.  
