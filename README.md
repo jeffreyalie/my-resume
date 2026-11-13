@@ -4,7 +4,9 @@ jeffreyalie75@gmail.com \| [https\://www\.linkedin.com/in/jeffreyalie/](https://
 
 ### SUMMARY
 
-Infrastructure Engineer with experience at **Epic Games**, specializing in the evolution from traditional **Systems Administration** to modern **Automation & IaC workflows**. Experienced in developing internal tools using Go (Golang), managing containerized services on **Kubernetes (k8s)**, and maintaining automated VM provisioning and **CI/CD workflows** using **Terraform**, **Ansible**, and **GitHub Actions**.
+I am an **IT Infrastructure Engineer** with hands-on experience spanning both modern cloud automation and full-stack traditional IT management.
+I’m looking for a great team and good people to work with.
+I would love to connect if you’re hiring in these areas!
 
 ---
 
@@ -13,7 +15,7 @@ Infrastructure Engineer with experience at **Epic Games**, specializing in the e
 * [Areas of Experties](#areas-of-expertise)
 * [Work Experience](#work-experience)
   - [Infrastructure Engineer - SysEng Team | Epic Games |](#infrastructure-engineer---syseng-team--epic-games--february-2020--april-2026)
-  - [Studio M\&A Systems Administrator - Quixel Integration | Previous Role at Epicgames|](#studio-ma-systems-administrator---quixel-integration---previous-role-at-epicgames-)
+  - [Studio M\&A Systems Administrator - | Previous Role at Epicgames|](#studio-ma-systems-administrator--previous-role-at-epicgames-)
   - [System Administrator | 3rd World Studios |](#system-administrator--3rd-world-studios---3d-animation-studio--islamabad-pakistan--2016--2017)
   - [System Administrator | Unicorn Black |](#system-administrator--unicorn-black---3d-animation-studio--islamabad-pakistan--2012--2016)
   - [System Administrator | Numairical Studios |](#system-administrator--numairical-studios---2d-animation-studio--islamabad-pakistan--2010--2012)
@@ -23,13 +25,11 @@ Infrastructure Engineer with experience at **Epic Games**, specializing in the e
 ---
 ### AREAS OF EXPERTISE
 
-* **Automation & IaC:** Terraform, Ansible, GitHub Actions (GHA), CI/CD Pipeline Development  
-* **Cloud & Orchestration**: Kubernetes (k8s), Lens, Docker, Helm, Containerization  
-* **Programming & Tools**: Go (Golang), Claude Code (AI-assisted development), PowerShell, Bash  
-* **Operating Systems:** Windows Server (2012R2, Active Directory, DHCP, DNS, FTP, Group Policies), CentOS, Ubuntu, Windows 10/11, macOS  
-* **Networking & Security**: Palo Alto, pfSense Firewalls, Cisco Switches, Meraki, Vulnerability Testing (Qualys, CrowdStrike)  
-* **Project Management:** Jira, Miro Boards, Project Timelines, Cross-functional Team Coordination  
-* **Physical Infrastructure**: Greenfield Network Design, MDF/IDF Architecture, Rack/Server/UPS Installation, Structured Cabling
+* **Project Management:** Cross-functional team coordination, project planning, timeline and task tracking, and technical documentation using Jira, Slack, and Miro.
+* **Mergers & Acquisitions (M&A) Integration:** Successfully executed the technical integration of multiple acquired companies into Epic Games, consolidating digital assets and global IT infrastructure, including network switches, firewalls, and IT asset lifecycle management., while ensuring zero production downtime.
+* **Automation & Cloud:** Automating infrastructure with Terraform, Ansible, GitHub Actions, Go, and Kubernetes.
+* **Networking & Security:** Consolidating global network infrastructure during M&A integrations using Palo Alto firewalls, Cisco switches, pfSense, and Meraki.
+* **Physical Infrastructure & SLM:** Designing site office networks (MDF/IDF, server/rack architectures) from the ground up.
 
 ---
 
@@ -43,9 +43,9 @@ Infrastructure Engineer with experience at **Epic Games**, specializing in the e
 
   Key Achievements: Restored and optimized existing IaC workflows to streamline new VM provisioning. Improved infrastructure lifecycle management by identifying and removing EOL Ubuntu VMs and updating VM templates and corresponding IaC repositories. Contributed to internal tooling that supported project coordination and team communications.
 
-#### Studio M&A Systems Administrator - Quixel Integration  | Previous Role at Epicgames |
+#### Studio M&A Systems Administrator | Previous Role at Epicgames |
 
-* **M&A Infrastructure Integration:** Led the technical merger of Quixel, consolidating digital assets and global network infrastructure, including switches, firewalls, and security policies.
+* **M&A Infrastructure Integration:** Led the technical mergers, consolidating digital assets and global network infrastructure, including switches, firewalls, security policies and IT asset lifecycle management
 
 * **Project Management:** Utilized Jira, Miro, and Excel for cross-functional project tracking and technical documentation to ensure transparency and a strong security posture.
 
@@ -57,7 +57,7 @@ Infrastructure Engineer with experience at **Epic Games**, specializing in the e
 
 * **Enterprise SaaS & Security:** Administered Google Workspace and Office 365 environments and deployed Qualys and CrowdStrike across machines.
 
-  Key Achievements: * Executed the technical merger of Quixel’s network and systems into Epic Games with zero production downtime
+  Key Achievements: * Technical infrastructure consolidation, network integration, security policy alignment, and IT asset lifecycle management
 
 #### System Administrator | 3rd World Studios - 3D Animation Studio – Islamabad, Pakistan | *2016 – 2017*
 
