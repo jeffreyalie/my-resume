@@ -1,4 +1,4 @@
-# ALI AHMED
+# Ali Ahmed
 IT Infrastructure Engineer  
 jeffreyalie75@gmail.com \| [https\://www\.linkedin.com/in/jeffreyalie/](https://www.linkedin.com/in/jeffreyalie/) \| [https\://github.com/jeffreyalie](https://github.com/jeffreyalie) \|
 
